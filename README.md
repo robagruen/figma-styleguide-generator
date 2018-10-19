@@ -21,7 +21,7 @@ You will need to generate your own **Personal Access Tokens**
 You will also need a project file id
 
 * Open the desired project
-* In the URL look for the long string https://www.figma.com/file/**id is here**
+* In the URL look for the long string `https://www.figma.com/file/**id is here**`
 
 
 **Installing**
@@ -41,7 +41,6 @@ You will also need a project file id
 Now you got both servers running and you good to go!
 
 ## Build With
----------
 
 * [Create React App](https://github.com/facebook/create-react-app) - Front-End wrapper for displaying the data
 * [Express](https://expressjs.com/) - Back-end server that fetches data from the API
