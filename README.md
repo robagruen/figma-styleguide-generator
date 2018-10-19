@@ -1,11 +1,11 @@
 # Figma Style Guide Generator
----------
+
 
 This is a React app that connects to the Figma API and gets canvases with appropriate names.
 The hope is to get it to generate a style guide.
 
 ## Getting Started
----------
+
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
